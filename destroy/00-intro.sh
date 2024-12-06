@@ -37,7 +37,7 @@ Do you have those tools installed?
 # Crossplane #
 ##############
 
-rm -f a-team/intro.yaml
+rm -f a-team/intro.yml
 
 git add .
 
